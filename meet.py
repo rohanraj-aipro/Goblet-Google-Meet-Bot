@@ -23,9 +23,9 @@ print('^                                                               ^')
 print('^                                                               ^')
 print('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^')
 print('Some Changes have to be made in the Script')
-print('In This Python Script, go to line 82 and type your G-mail address ')
-print('In This Python Script, go to line 82 and type your Password ')
-print('In This Python Script, go to line 96 and type the Path of your chromedriver ')
+print('In This Python Script, go to line 86 and type your G-mail address ')
+print('In This Python Script, go to line 87 and type your Password ')
+print('In This Python Script, go to line 99 and type the Path of your chromedriver ')
 print('Example :-  C:\Your_Name\chromedriver.exe')
 print('Or Download Chrome Driver Latest Version From Here:-')
 print('https://chromedriver.chromium.org/downloads')
@@ -96,7 +96,7 @@ opt.add_experimental_option("prefs", {
     "profile.default_content_setting_values.geolocation": 0,
     "profile.default_content_setting_values.notifications": 1
 })
-driver = webdriver.Chrome('D:\Rohan\Python\chromedriver.exe')
+driver = webdriver.Chrome('Path of the Chrome Driver here')
   
 # login to Google account
 Glogin(mail_address, password)
