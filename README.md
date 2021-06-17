@@ -2,8 +2,3 @@
 
 ## You Can Run on Any OS with Python Executer
 
-Installation:- 
-
-```
-git clone
-```
