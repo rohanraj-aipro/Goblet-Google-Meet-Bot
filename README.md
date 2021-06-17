@@ -3,9 +3,9 @@
 ## You Can Run on Any OS with Python Executer
 
 Some Changes have to be made in the Script
-In This Python Script, go to line 82 and type your G-mail address
-In This Python Script, go to line 83 and type your Password
-In This Python Script, go to line 96 and type the Path of your chromedriver
+In This Python Script, go to line 86 and type your G-mail address
+In This Python Script, go to line 87 and type your Password
+In This Python Script, go to line 99 and type the Path of your chromedriver
 Example :-  C:\Your_Name\chromedriver.exe
 Or Download Chrome Driver Latest Version From Here:-
 https://chromedriver.chromium.org/downloads
